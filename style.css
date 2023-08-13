@@ -65,3 +65,18 @@ h1 {
   margin: 15px 0 7px;
   letter-spacing: 1px;
 }
+
+.pokemon .type {
+  display: flex;
+}
+.pokemon .type .type_detail{
+  width: 50%;
+  padding-left: 5px;
+  
+}
+
+.pokemon .type .type_detail small{
+  display: block;
+  text-align: left;
+
+}
